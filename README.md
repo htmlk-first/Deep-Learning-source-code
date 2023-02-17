@@ -61,10 +61,6 @@ update 2023.02.17
     Vision model interpretability  
     Video  
     3D  
-        - 3D image classification
-        - Monocular depth estimation
-        - NeRF
-        - PointNet
     Other  
 
 ### 6. Text (NLP)
