@@ -1,7 +1,5 @@
 # Deep Learning
 
-update 2023.02.17
-
 ---
 
 ## Tensorflow
