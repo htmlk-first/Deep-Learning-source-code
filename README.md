@@ -1,4 +1,4 @@
-# Machine Learning Source Code
+# Deep Learning
 
 update 2023.02.17
 
@@ -8,30 +8,30 @@ update 2023.02.17
 
 ### 1. ML-basics
 
-Regression  
-Classification  
-Multi layer perceptron  
-Overfit and underfit  
-Save and load  
-Tune hyperparameters  
-attention
-transformer
+    Regression  
+    Classification  
+    Multi layer perceptron  
+    Overfit and underfit  
+    Save and load  
+    Tune hyperparameters  
+    attention
+    transformer
 
 ### 2. Data-prprocess
 
-Images
-Video
-CSV
-Numpy
-Pandas
-TFRecord and tf.example
-Text(NLP)
+    Images
+    Video
+    CSV
+    Numpy
+    Pandas
+    TFRecord and tf.example
+    Text(NLP)
 
 ### 3. Customization
 
-tensors and operations
-custom layers
-custom training
+    tensors and operations
+    custom layers
+    custom training
 
 ### 4. Distributed training
 
