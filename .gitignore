@@ -1,2 +1,8 @@
 
 *.jpg
+*.vocab
+tensorflow/01_ML-basics/aclImdb/imdbEr.txt
+tensorflow/01_ML-basics/aclImdb/README
+*.feat
+*.txt
+*.gz
